@@ -109,6 +109,12 @@
         "category": "Vanilla JS",
         "image": "blackjack.jpg",
         "url": "https://my-blackjackgame.netlify.app/"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon clone project fully functioning backend(ReactJS, Firebase)",
+        "image": "amazon.jpg",
+        "url": "https://my-amazon-clone.netlify.app/"
       }
     ]
   },
